@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucasMaximilianoCueva
+- 👀 I’m interested in technology 
+- 🌱 I’m currently learning Backend programming 
+- 💞️ I’m looking to collaborate on real projects 
+- 📫 Find me on LinkedIn as Lucas Maximiliano Cueva 
