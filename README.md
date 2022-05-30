@@ -3,7 +3,7 @@
 * :godmode: I’m passionate about **Programming** and **Technology**
 * :suspect: Now I'm learning some diferent technologies and programming languages
 * :goberserk: I’m looking to collaborate on any project to help me to gain some experience in the programming world
-* :feelsgood: I've learned: HTML - CSS - Sass - Bootstrap - JS - ReactJS - NodeJS - Express - JAVA - Docker - MYSQL - MariaDB - MongoDB - Firebase - NPM - GIT
+* :feelsgood: I've learned: HTML - CSS - Sass - Bootstrap - JS - ReactJS - NodeJS - Express - JAVA - Docker - MYSQL - MariaDB - MongoDB - Firebase - NPM - GIT - BaaS - Heroku
 
  ### Let's keep in touch: </br>
 <div> 
